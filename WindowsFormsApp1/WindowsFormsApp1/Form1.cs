@@ -49,6 +49,7 @@ namespace WindowsFormsApp1
             table.Rows.Add("2023-010-01 07:20", "3", "0.15");
             table.Rows.Add("2023-011-01 08:20", "4", "0.23");
             table.Rows.Add("2023-12-01 09:20", "2", "0.25");
+            table.Rows.Add("2023-12-01 09:30", "1", "0.24");
             // 값들이 입력된 테이블을 DataGridView에 입력합니다.
             dataGridView1.DataSource = table;
 
