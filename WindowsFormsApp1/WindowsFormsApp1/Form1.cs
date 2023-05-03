@@ -196,5 +196,10 @@ namespace WindowsFormsApp1
             chart1.ChartAreas[0].AxisX.Maximum = btime.ToOADate();
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
